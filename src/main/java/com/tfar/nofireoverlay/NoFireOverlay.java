@@ -1,4 +1,4 @@
-package com.tfar.examplemod;
+package com.tfar.nofireoverlay;
 
 import net.minecraft.potion.Effects;
 import net.minecraftforge.api.distmarker.Dist;
